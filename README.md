@@ -7,6 +7,8 @@ Here you can see a selection of some of my programming explorations. This profil
 relatively new since my main account used my school email, and I wanted to start 
 an account that will be accessible after I graduate.
 
+[![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
+
 Tech Experience
 - Python/Flask
 - HTML/CSS/JS
