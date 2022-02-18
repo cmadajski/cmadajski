@@ -22,3 +22,7 @@ Tech Experience
 - some React
 - Bash/Ubuntu
 - Agile methodology
+
+Best Projects
+- [Niner Miner](https://github.com/cmadajski/niner_miner)
+- [3155Project](https://github.com/cmadajski/)
