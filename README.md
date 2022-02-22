@@ -13,8 +13,7 @@ Tech Experience
 - Python/Flask
 - HTML/CSS/JS
 - C++
-- Java (yuck)
-- C# (double yuck)
+- Java and C# (they can both burn in a fire)
 - CI/CD pipeline
 - Unit testing
 - some machine learning (mostly Python libs)
@@ -22,6 +21,7 @@ Tech Experience
 - some React
 - Bash/Ubuntu
 - Agile methodology
+- databases (MySQL/SQLAlchemy/PostgreSQL)
 
 Best Projects
 - [Niner Miner](https://github.com/cmadajski/niner_miner)
