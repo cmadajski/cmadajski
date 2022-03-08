@@ -23,4 +23,4 @@ an account that will be accessible after I graduate.
 
 ## Project Highlights
 - [Niner Miner](https://github.com/cmadajski/niner_miner)
-- [3155Project](https://github.com/cmadajski/3155_Project)
+- [3155Project](https://github.com/cmadajski/3155Project)
