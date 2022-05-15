@@ -1,13 +1,13 @@
 Howdy internet traveler,
 
 This is the GitHub of Christian Madajski.
-I'm a computer science student at UNC Charlotte (graduating May 2022 🥳).
+I'm a recently graduated computer scientist who studied at UNC Charlotte.
 
 Here you can see a selection of some of my programming explorations. This profile is
 relatively new since my main account used my school email, and I wanted to start 
 an account that will be accessible after I graduate.
 
-[![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
+Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
 
 ## Tech Experience
 - Programming Languages (Python and C)
