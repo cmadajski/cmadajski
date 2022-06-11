@@ -10,16 +10,16 @@ an account that will be accessible after I graduate.
 Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
 
 ## Tech Experience
-- Programming Languages (Python and C)
+- Programming Languages (Java and Python)
 - Web Technologies (HTML/CSS/JS)
-- Web Frameworks (Flask, Node.js, React, Bulma)
+- Web Frameworks (Flask, Node.js, SpringBoot)
 - Databases (MySQL, SQLAlchemy)
-- CI/CD pipeline
+- CI/CD pipeline (Jenkins, Selenium, Maven, Nagios)
 - Unit testing
 - some machine learning (mostly Python libs)
 - some data science (mostly using Python)
 - Linux (mostly Ubuntu)
-- shell scripting (POSIX compliant)
+- shell scripting (Bash)
 - Agile methodology
 
 ## Project Highlights
@@ -28,3 +28,5 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
  
  ## Things That Make Me Excited
  - WebAssembly (running native apps in the browser will be AMAZING)
+- Web 3.0 (gonna be crazy to see what products emerge)
+- Nvidia's NeRF (AI makes my head spin)
