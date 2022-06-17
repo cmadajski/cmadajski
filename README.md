@@ -12,12 +12,10 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 ## Tech Experience
 - Programming Languages (Java and Python)
 - Web Technologies (HTML/CSS/JS)
-- Web Frameworks (Flask, Node.js, SpringBoot)
+- Web Frameworks (Spring Boot and Flask)
 - Databases (MySQL, SQLAlchemy)
-- CI/CD pipeline (Jenkins, Selenium, Maven, Nagios)
-- Unit testing
-- some machine learning (mostly Python libs)
-- some data science (mostly using Python)
+- CI/CD pipeline (Jenkins, Selenium, Maven, Prometheus)
+- Unit testing (JUnit, PyTest)
 - Linux (mostly Ubuntu)
 - shell scripting (Bash)
 - Agile methodology
