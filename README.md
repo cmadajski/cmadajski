@@ -14,8 +14,8 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 - Web Technologies (HTML/CSS/JS)
 - Web Frameworks (Spring Boot and Flask)
 - Databases (MySQL, SQLAlchemy)
-- CI/CD pipeline (Jenkins, Selenium, Maven, Prometheus)
-- Unit testing (JUnit, PyTest)
+- CI/CD pipeline (Jenkins)
+- Unit testing (JUnit, PyTest, Selenium)
 - Linux (mostly Ubuntu)
 - shell scripting (Bash)
 - Agile methodology
@@ -25,6 +25,6 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 - [3155Project](https://github.com/cmadajski/3155Project)
  
  ## Things That Make Me Excited
- - WebAssembly (running native apps in the browser will be AMAZING)
-- Web 3.0 (gonna be crazy to see what products emerge)
+ - WebAssembly
 - Nvidia's NeRF (AI makes my head spin)
+- People losing all their life savings to dumb crypto scams
