@@ -1,11 +1,10 @@
-Howdy internet traveler,
+# Salutations, Internet Traveler!
 
-This is the GitHub of Christian Madajski.
-I'm a recently graduated computer scientist who studied at UNC Charlotte.
+My name is **Christian Madajski** and I'm a **Java** Developer who also dabbles in **Python** stuff.
 
-Here you can see a selection of some of my programming explorations. This profile is
-relatively new since my main account used my school email, and I wanted to start 
-an account that will be accessible after I graduate.
+I recently graduated with a Computer Science degree from the University of North Carolina at Charlotte.
+
+If you desire more detailed information, you can find it on [my portfolio website](https://cmadajski.herokuapp.com/).
 
 Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
 
@@ -13,11 +12,11 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 - Programming Languages (Java and Python)
 - Web Technologies (HTML/CSS/JS)
 - Web Frameworks (Spring Boot and Flask)
-- Databases (MySQL, SQLAlchemy)
-- CI/CD pipeline (Jenkins)
+- Databases (PostgreSQL and MySQL)
+- CI/CD pipeline (Jenkins, Terraform)
 - Unit testing (JUnit, PyTest, Selenium)
-- Linux (mostly Ubuntu)
-- shell scripting (Bash)
+- Linux (Ubuntu)
+- scripting (Bash, Python)
 - Agile methodology
 
 ## Project Highlights
@@ -26,5 +25,6 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
  
  ## Things That Make Me Excited
  - WebAssembly
-- Nvidia's NeRF (AI makes my head spin)
+- Nvidia's NeRF
 - People losing all their life savings to dumb crypto scams
+- Command line interfaces
