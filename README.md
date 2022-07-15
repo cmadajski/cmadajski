@@ -9,12 +9,12 @@ If you desire more detailed information, you can find it on [my portfolio websit
 Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
 
 ## Tech Experience
-- Programming Languages (Python and Java)
+- Programming Languages (Python and some Java)
 - Web Technologies (HTML/CSS/JS)
-- Web Frameworks (Flask, FastAPI, Spring)
+- Web Frameworks (Flask, FastAPI)
 - Databases (PostgreSQL and MySQL)
 - CI/CD pipeline (Jenkins, Terraform)
-- Unit testing (JUnit, PyTest, Selenium)
+- Unit testing (PyTest, Selenium)
 - Linux (Ubuntu)
 - scripting (Bash, Python)
 - Agile methodology
