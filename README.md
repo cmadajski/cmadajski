@@ -2,7 +2,7 @@
 
 My name is **Christian Madajski** and I'm a **Python** developer who is also familiar with web technologies (websites and APIs).
 
-I have a bachelors degree in Computer Science from the University of North Carolina at Charlotte.
+I have a **B.S. in Computer Science** from the University of North Carolina at Charlotte.
 
 If you desire more detailed information, you can find it on [my portfolio website](https://cmadajski.herokuapp.com/).
 
