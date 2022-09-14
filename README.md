@@ -9,22 +9,20 @@ If you desire more detailed information, you can find it on [my portfolio websit
 Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
 
 ## Tech Experience
-- Programming Languages (Python and some Java)
-- Web Technologies (HTML/CSS/JS)
-- Web Frameworks (Flask, FastAPI)
-- Databases (PostgreSQL and MySQL)
-- CI/CD pipeline (Jenkins, Terraform)
-- Unit testing (PyTest, Selenium)
+- Programming Languages (Python, C, Java)
+- Web Technologies (HTML, CSS, JS, WebSockets)
+- Web Frameworks (Flask, FastAPI, Django)
+- Databases (SQLite3, PostgreSQL, MongoDB)
+- SDLC (Git, GitHub, Jira, Jenkins)
+- Unit testing (PyTest, unittest, Selenium)
 - Linux (Ubuntu)
 - scripting (Bash, Python)
-- Agile methodology
 
 ## Project Highlights
 - [Niner Miner](https://github.com/cmadajski/niner_miner)
 - [3155Project](https://github.com/cmadajski/3155Project)
  
- ## Things That Make Me Excited
- - WebAssembly
-- Nvidia's NeRF
-- People losing all their life savings to dumb crypto scams
-- Command line interfaces
+## My Favorite Tech Things
+- command line interfaces
+- machine learning
+- FOSS stuff
