@@ -14,48 +14,38 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
   - C
   - Java
   - Golang
-### Programming Languages
-- Python
-- C
-- Java
-### Web Technologies
-- HTML/CSS/JS
-- Web Sockets
-### Web Frameworks
-- Django + extensions (Django REST framework, Django-Filter, DRF-Spectacular, etc)
-- Flask
-- FastAPI
-### Databases
-- PostgreSQL
-- MongoDB
-- OracleDB
-- SQLite3
-### SDLC
-- Git/GitHub
-- Jenkins
-- Apache Airflow
-### Unit testing
-- PyTest
-- unittest
-- Selenium
-### Linux
-- RHEL (Red Hat Enterprise Linux)
-- Fedora
-- Ubuntu
-### shell scripting
-- Bash
-- Python
+- Web Frameworks
+  - Django + extensions (Django REST framework, Django-Filter, DRF-Spectacular, etc)
+  - Flask
+  - FastAPI
+- Databases
+  - PostgreSQL
+  - MongoDB
+  - SQLite3
+- SDLC
+  - Git/GitHub
+  - Jenkins
+  - Apache Airflow
+- testing
+  - PyTest
+  - unittest
+  - Selenium
+- operating systems
+  - RHEL (Red Hat Enterprise Linux)
+  - Fedora
+  - Ubuntu
+  - Windows 7, 10, 11
+- shell scripting
+  - Bash
+  - Python
 
 ## Project Highlights
 - [Niner Miner](https://github.com/cmadajski/niner_miner)
 - [3155Project](https://github.com/cmadajski/3155Project)
- 
-## My Favorite Tech Things
-- command line interfaces
-- automation pipelines
-- machine learning
 
 ## Currently Working On...
 - [x] learn HTMX to improve client-side interactivity
-- [ ] port portfolio to Django
+- [x] port portfolio to Django
 - [ ] complete Django API for online notebook
+- [ ] build Image Editor Webapp
+- [ ] get CompTIA Linux+ cert
