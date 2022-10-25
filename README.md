@@ -11,9 +11,12 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 ## Tech Experience
 ### Programming Languages
 
-|----------|-----------|-----------|
-| Python   |      C    |   Java    |
-
+|Languages | Frameworks   | Databases |
+|----------|--------------|-----------|
+| Python   | Django       | PostgreSQL|
+|    C     | Django REST  |  MongoDB  |
+|   Java   |   Flask      | SQLite3   |
+|  Golang  |   FastAPI    |           |
 
   - Python
   - C
