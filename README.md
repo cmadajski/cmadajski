@@ -10,6 +10,9 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 
 ## Tech Experience
 - programming languages
+|----------|-----------|-----------|
+| Python   |      C    |   Java    |
+
   - Python
   - C
   - Java
