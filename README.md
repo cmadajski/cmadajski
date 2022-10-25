@@ -9,6 +9,11 @@ If you desire more detailed information, you can find it on [my portfolio websit
 Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/510092ca-a9b8-48f5-bf50-9b05005ef525.svg)](https://wakatime.com/@510092ca-a9b8-48f5-bf50-9b05005ef525)
 
 ## Tech Experience
+- programming languages
+  - Python
+  - C
+  - Java
+  - Golang
 ### Programming Languages
 - Python
 - C
