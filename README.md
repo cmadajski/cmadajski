@@ -11,41 +11,13 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 ## Tech Experience
 ### Programming Languages
 
-|Languages | Frameworks   | Databases |
-|----------|--------------|-----------|
-| Python   | Django       | PostgreSQL|
-|    C     | Django REST  |  MongoDB  |
-|   Java   |   Flask      | SQLite3   |
-|  Golang  |   FastAPI    |           |
+|Languages | Frameworks   | Databases |   SDLC        | Operating Systems  |   Testing   |   Scripting  |
+|----------|--------------|-----------|---------------|--------------------|-------------|--------------|
+| Python   | Django       | PostgreSQL| Git/GitHub    |     RHEL           |   PyTest    |    Bash      |
+|    C     | Django REST  |  MongoDB  | Jenkins       |     Fedora         |   unittest  |   Python     |
+|   Java   |   Flask      | SQLite3   | Apache Airflow|     Ubuntu         |   Selenium  |              |
+|  Golang  |   FastAPI    |           |               |  Windows 10/11     |             |              |
 
-  - Python
-  - C
-  - Java
-  - Golang
-- Web Frameworks
-  - Django + extensions (Django REST framework, Django-Filter, DRF-Spectacular, etc)
-  - Flask
-  - FastAPI
-- Databases
-  - PostgreSQL
-  - MongoDB
-  - SQLite3
-- SDLC
-  - Git/GitHub
-  - Jenkins
-  - Apache Airflow
-- testing
-  - PyTest
-  - unittest
-  - Selenium
-- operating systems
-  - RHEL (Red Hat Enterprise Linux)
-  - Fedora
-  - Ubuntu
-  - Windows 7, 10, 11
-- shell scripting
-  - Bash
-  - Python
 
 ## Project Highlights
 - [Niner Miner](https://github.com/cmadajski/niner_miner)
