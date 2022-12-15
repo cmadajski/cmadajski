@@ -25,6 +25,6 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 ## Currently Working On...
 - [x] learn HTMX to improve client-side interactivity
 - [x] port portfolio to Django
-- [ ] complete Django API for online notebook
-- [ ] build Image Editor Webapp
+- [x] build CLI utility for OpenAI APIs
 - [ ] get CompTIA Linux+ cert
+- [ ] look for Senior Python Dev jobs
