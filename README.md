@@ -15,7 +15,7 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 | Python   | Django       | PostgreSQL| Git/GitHub    |     RHEL           |   PyTest    |    Bash      |
 |    C     | Django REST  |  MongoDB  | Jenkins       |     Fedora         |   unittest  |   Python     |
 |   Java   |   Flask      | SQLite3   | Apache Airflow|     Ubuntu         |   Selenium  |              |
-|  Golang  |   FastAPI    |           |               |  Windows 10/11     |             |              |
+|  Golang  |   FastAPI    |           |               |  Windows 10/11     |    Robot    |              |
 
 
 ## Project Highlights
