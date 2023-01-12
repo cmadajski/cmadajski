@@ -19,12 +19,11 @@ Cumulative Time Spent Coding: [![wakatime](https://wakatime.com/badge/user/51009
 
 
 ## Project Highlights
-- [Niner Miner](https://github.com/cmadajski/niner_miner)
-- [3155Project](https://github.com/cmadajski/3155Project)
+- WIP
 
 ## Currently Working On...
 - [x] learn HTMX to improve client-side interactivity
 - [x] port portfolio to Django
 - [x] build CLI utility for OpenAI APIs
 - [ ] get CompTIA Linux+ cert
-- [ ] look for Senior Python Dev jobs
+- [ ] build some webapps that leverage OpenAI services
